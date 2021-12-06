@@ -43,9 +43,7 @@ Users can download or clone this repository. In order to run the project, please
 
 ## Usage
 
-* Once the server.js file is opened, users can navigate through the Insomenia to check the functionality. Following video shows the detailed walkthrough of the E-commenrce backend functionality:
-
-[View Application Demo](https://drive.google.com/file/d/1OCIs2dOBlGf0Atb5ZO-5fyFlu5COS1nh/view?usp=sharing).
+* Once the server.js file is opened, users can navigate through the Insomenia to check the functionality. The detailed E-commenrce backend functionality is shared in the walkthrough video below.
 
 
 ## Features
